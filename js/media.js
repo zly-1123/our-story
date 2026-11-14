@@ -1,6 +1,6 @@
 /* 由 tools/build_site.py 生成（发布版） */
 window.PHOTO_WALL_DATA = {
-  "generatedAt": "2026-11-14T20:52:43+08:00",
+  "generatedAt": "2026-11-14T21:00:01+08:00",
   "photos": [
     {
       "type": "photo",
